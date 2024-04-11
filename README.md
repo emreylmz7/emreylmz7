@@ -1,20 +1,12 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi 👋, I'm Emre Yılmaz</h1>
+
+###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emreylmz7&label=Profile%20views&color=0e75b6&style=flat" alt="emreylmz7" /> </p>
+<p align="left">I'm a Software Developer - .NET Core, Javascript</p>
 
 ###
 
-<p align="left">My name is Emre and I'm a Software Developer</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning React</p>
-
-###
-
-<h2 align="left">I code with</h2>
+<h2 align="left">Languages and Tools:</h2>
 
 ###
 
@@ -50,7 +42,7 @@
 
 ###
 
-<h3 align="left">Contact Me</h3>
+<h3 align="left">Contact With Me</h3>
 
 ###
 
@@ -66,7 +58,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emreylmz7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emreylmz7&" alt="emreylmz7" /></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emreylmz7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 

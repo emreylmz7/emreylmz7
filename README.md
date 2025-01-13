@@ -41,8 +41,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -63,10 +61,13 @@
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emreylmz7&show_icons=true&count_private=true&hide_border=true&title_color=3B88C3&icon_color=3B88C3&text_color=c9d1d9&bg_color=0d1117" alt="Emre Yılmaz github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=emreylmz7&theme=transparent&hide_border=true&stroke=3B88C3&ring=3B88C3&fire=3B88C3&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=3B88C3&sideLabels=3B88C3&dates=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreylmz7&layout=compact&langs_count=7&theme=transparent"/>
+</div>
+
 </div>
 
 <br/>
+
 
 ### 🌐 Connect with Me
 
@@ -77,10 +78,4 @@
   <a href="mailto:yilmazvemre@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/emreylmz7/emreylmz7/output/snake.svg" alt="Snake animation" />
 </div>
